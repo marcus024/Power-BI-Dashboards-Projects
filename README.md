@@ -1,0 +1,1 @@
+This repository is the compilation of all my Projects created using Power BI Desktop. The reports and dashboards were published in Power BI  service. The  data and information are either mock data or got from websites datasets somewhere in Google.
